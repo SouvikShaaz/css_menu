@@ -1,0 +1,82 @@
+.header
+{
+    margin: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-family:courier;
+    font-size: 30px;
+}
+.logo
+{
+    float: left;
+}
+.logo img
+{
+    border: 2px solid #ffffff;
+    border-radius: 80px;
+}
+.btn a
+{
+    float: right;
+    border: 2px solid #FFFFFF;
+    font-size: 12px;
+    margin: 4px;
+    color: #ffffff;
+    border-radius: 30px;
+    padding: 10px;
+}
+.btn a:hover
+{
+    transform: scale(2);
+    color: #4AA56E;
+    border: 2px dashed;
+}
+.menu
+{
+    width: 25%;
+    height: 750px;
+    color: #ffffff;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid #FFFFFF;
+    border-radius: 30px;
+}
+.menu p
+{
+    font-size: 30px;
+}
+.right
+{
+  width: 74%;
+  height: 750px;
+  color: #ffffff;
+  display: inline-block;
+  text-align: center;
+  float: right; 
+  border: 2px solid #FFFFFF;
+  border-radius: 30px;
+}
+.right .ali
+{
+    margin: 30px;
+    text-align: center;
+}
+.right .ali .box table
+{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.right .ali .box table img
+{
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+}
+.footer
+{
+    margin: 30px;
+    text-align: center;
+    color: #ffffff;
+    font-family:courier;
+    font-size: 20px;
+}
